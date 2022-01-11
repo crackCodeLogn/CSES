@@ -10,6 +10,7 @@ typedef pair<int, int> pi;
 #define PB push_back
 #define MP make_pair
 #define REP(i,a,b) for(int i=a;i<=b;i++)
+#define REP_MAP(it,dataMap) for(auto it = dataMap.cbegin(); it != dataMap.cend(); ++it)
 
 
 int main() {
